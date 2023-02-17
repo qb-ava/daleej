@@ -1,0 +1,23 @@
+{
+  "name": "dalee",
+  "version": "1.0.0",
+  "description": "Daily journal app.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qb-ava/daleej.git"
+  },
+  "author": "qb-ava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qb-ava/daleej/issues"
+  },
+  "homepage": "https://github.com/qb-ava/daleej#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2"
+  }
+}
